@@ -33,7 +33,7 @@
 	* Read: Lilly Irani, “[Justice for ‘Data Janitors’](https://www.publicbooks.org/justice-for-data-janitors/)”
 	* Watch: Andrew Norman Wilson, "[Workers Leaving the Googleplex](https://vimeo.com/15852288)"
 	* Read: Astrid Smith and Bridget Whearty, “All the Work You Do Not See” (Canvas) 
-	* **HW2 due**: Intro to Jupyter
+	* **HW2 due**: Intro to Jupyter / Python
 * In class: text to data exercise
 
 #### 9/14 - Web Scraping
