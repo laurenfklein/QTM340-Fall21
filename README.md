@@ -5,7 +5,7 @@ What does it mean to turn text into data? What are the data science techniques t
 
 Introductory courses in computer science and probability and statistics are recommended as perquisites for this course. You will complete all class exercises and homework assignments in Python. I expect you to participate in class discussion and present your final project at the end of the semester. I will also require some short writing assignments. 
 
-- [Syllabus](docs/QTM340—Fall2021.pdf)
+- [Syllabus](docs/QTM340-Fall2021.pdf)
 - [Course Calendar](docs/schedule.md)
 - Course on [Canvas](https://canvas.emory.edu/courses/90548) (Emory students only)
 - [Email me](mailto:lauren.klein@emory.edu)!
