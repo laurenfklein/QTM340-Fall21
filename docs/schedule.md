@@ -18,13 +18,13 @@
 	* Read: Farhad Manjoo, "[How Do You Know a Human Wrote This?](https://www.nytimes.com/2020/07/29/opinion/gpt-3-ai-automation.html)"
 	* Spend at least 30 minutes playing [AI Dungeon](https://play.aidungeon.io/)
 	* **HW1 due**: Introduce yourself with GPT-2 (on Canvas)
-* In class: demo JupyterHub / Jupyter Notebook [class notebook](../notebooks/class3-jupyter-intro.ipynb)
+* In class: demo JupyterHub / Jupyter Notebook ([class notebook](../notebooks/class3-jupyter-intro.ipynb))
 
 #### 9/7 - What *should* you do with text as data?
 * Before class:
 	* Read: Michael Whitmore, “[Text: A Massively Addressable Object](https://dhdebates.gc.cuny.edu/read/untitled-88c11800-9446-469b-a3be-3fdb36bfbd1e/section/402e7e9a-359b-4b11-8386-a1b48e40425a)"
 	* Read: Emily M. Bender and Timnit Gebru et al., “[On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?](https://dl-acm-org.proxy.library.emory.edu/doi/pdf/10.1145/3442188.3445922)” 
-* In class: discussion and more intro to Jupyter / Python [class notebook](../notebooks/class3-jupyter-intro.ipynb)
+* In class: discussion and more intro to Jupyter / Python ([class notebook](../notebooks/class3-jupyter-intro.ipynb))
 
 ## Unit 1: Turning Text into Data
 
@@ -33,7 +33,7 @@
 	* Read: Lilly Irani, “[Justice for ‘Data Janitors’](https://www.publicbooks.org/justice-for-data-janitors/)”
 	* Watch: Andrew Norman Wilson, "[Workers Leaving the Googleplex](https://vimeo.com/15852288)"
 	* Read: Astrid Smith and Bridget Whearty, “All the Work You Do Not See” (Canvas) 
-	* **HW2 due**: Intro to Python / Strings [HW2 notebook](../notebooks/hw2-python-strings.ipynb))
+	* **HW2 due**: Intro to Python / Strings ([HW2 notebook](../notebooks/hw2-python-strings.ipynb))
 * In class: text to data exercise
 
 #### 9/14 - Web Scraping
