@@ -41,14 +41,14 @@
 * Before class:
 	* Read: Astead Herndon et al.,, “[What Do Rally Playlists Say About the Candidates?](https://www.nytimes.com/interactive/2019/08/19/us/politics/presidential-campaign-songs-playlists.html)”
 	* Read: Hanah Anderson and Matt Daniels, “[Film Dialogue](https://pudding.cool/2017/03/film-dialogue/)”
-* In class: web scraping on the open web ([class notebook](../notebooks/class6-web-scraping-NYT.ipynb))
+* In class: web scraping on the open web ([class notebook](../notebooks/class6-web-scraping-NYT.ipynb) and [completed class notebook](../notebooks/class6-web-scraping-NYT-complete.ipynb))
 
 #### 9/16 - APIs
 
 * Before class:
 	* Read: Xavier Adam, “[An Illustrated Introduction to APIs](https://medium.com/epfl-extension-school/an-illustrated-introduction-to-apis-10f8000313b9)” and “[API Whispering 101](https://medium.com/epfl-extension-school/api-whispering-101-e04fbb5a08fd)”
 	* **Quiz 1 due**: Scraping song lyrics from Genius.com
-* In class: APIs
+* In class: APIs ([class notebook #1: API intro](../notebooks/class7-accessing-apis.ipynb) and [class notebook #2: Genius API](../notebooks/class7-genius-api.ipynb))
 
 #### 9/21 - Text Parsing / Regular Expressions
 
