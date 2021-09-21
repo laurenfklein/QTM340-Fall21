@@ -56,8 +56,7 @@
 	* Read: Joel Spolsky, “[The Absolute Minimum Every Software Developer Absolutely, Positivitely Must Know About Unicode and Character Sets (No Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
 	* Optional more technical version of the previous post: David Zentgraf, "[What Every Programmer Absolutely, Positively Needs to Know about Encodings and Character Sets to Work with Text](https://kunststube.net/encoding/)"
 	* Also optional but very interesting: Miriam Sweeney and Kelsea Whaley, “[Technically White: Emoji Skin-Tone Modifiers as American Technoculture](https://firstmonday.org/ojs/index.php/fm/article/view/10060/8048)” 
-	* **Quiz 2 due**: Scraping song lyrics using the Genius API
-* In class: text parsing and regex with your song lyrics 
+* In class: text parsing and regex with your song lyrics ([class notebook #1: regex intro](../notebooks/class8-regex-intro.ipynb) ([completed version](../notebooks/class8-regex-intro-complete.ipynb)) and [class notebook #2: regex w/ song lyrics](../notebooks/class8-regex-with-song-lyrics.ipynb) ([completed version](../notebooks/class8-regex-with-song-lyrics-complete.ipynb)))
 
 ## Unit 2: Introductory Data Science with Text
 
@@ -66,6 +65,7 @@
 * Before class:
 	* Read: Ethan Reed, “[Measured Unrest in the Poetry of the Black Arts Movement](https://scholarslab.lib.virginia.edu/blog/measured-unrest-in-the-poetry-of-the-black-arts-movement/)”, ["Poems with Pattern and VADER, Part 1: Quincy Troupe"](https://scholarslab.lib.virginia.edu/blog/poems-with-pattern-and-vader-part-1-quincy-troupe/), ["Poems with Pattern and VADER, Part 2: Nikki Giovanni"](https://scholarslab.lib.virginia.edu/blog/poems-with-pattern-and-vader-part-2-nikki-giovanni/)
 	* Read: Sujay Khandekar et al., “[Opico: A Study of Emoji-first Communication in a Mobile Social App](https://dl-acm-org.proxy.library.emory.edu/doi/pdf/10.1145/3308560.3316547)” 
+	* **Quiz 2 due**: Scraping song lyrics using the Genius API
 * In class: sentiment analysis 
 
 #### 9/28 - Natural Language Processing 101, day 1 
