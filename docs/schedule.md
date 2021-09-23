@@ -66,7 +66,7 @@
 	* Read: Ethan Reed, “[Measured Unrest in the Poetry of the Black Arts Movement](https://scholarslab.lib.virginia.edu/blog/measured-unrest-in-the-poetry-of-the-black-arts-movement/)”, ["Poems with Pattern and VADER, Part 1: Quincy Troupe"](https://scholarslab.lib.virginia.edu/blog/poems-with-pattern-and-vader-part-1-quincy-troupe/), ["Poems with Pattern and VADER, Part 2: Nikki Giovanni"](https://scholarslab.lib.virginia.edu/blog/poems-with-pattern-and-vader-part-2-nikki-giovanni/)
 	* Read: Sujay Khandekar et al., “[Opico: A Study of Emoji-first Communication in a Mobile Social App](https://dl-acm-org.proxy.library.emory.edu/doi/pdf/10.1145/3308560.3316547)” 
 	* **Quiz 2 due**: Scraping song lyrics using the Genius API
-* In class: sentiment analysis 
+* In class: final lyrics scraping [notebook](../notebooks/class9-lyrics-scraping.ipynb) and sentiment analysis [notebook](../notebooks/class9-sentiment-analysis.ipynb) 
 
 #### 9/28 - Natural Language Processing 101, day 1 
 
