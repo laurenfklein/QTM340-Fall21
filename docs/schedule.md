@@ -74,18 +74,18 @@
 	* Read: Patrick Juola, “[How a Computer Program Helped Show J.K. Rowling Wrote A Cuckoo’s Calling](https://www.scientificamerican.com/article/how-a-computer-program-helped-show-jk-rowling-write-a-cuckoos-calling/)”
 	* Read: Milo Beckman, “[These are the Phrases Each GOP Candidate Uses Most](https://fivethirtyeight.com/features/these-are-the-phrases-each-gop-candidate-repeats-most/)”
 	* **Quiz 3 due**: Sentiment analysis of your song lyrics 
-* In class: word counts, n-grams, lexicons  
+* In class: NLP with spaCy, part 1 ([notebook](../notebooks/class10-spacy-part1.ipynb))
 
 #### 9/30 - Natural Language Processing 101, day 2 
 * Before class:
 	* Read: Maarten Sap et al., “[Connotation Frames of Power and Agency in Modern Films](https://aclanthology.org/D17-1247.pdf)”
 	* Maria Antoniak et al, “[Narrative Paths and Negotiation of Power in Birth Stories](https://maria-antoniak.github.io/resources/2019_cscw_birth_stories.pdf)”
-	* **HW3 due**: Named entity recognition (NER), part-of-speech (POS) tagging
+	* **HW3 due**: NLP with spaCy, part 2 ([notebook](../notebooks/class10-spacy-part2.ipynb))
 * In class: Guest lecture, [Maria Antoniak](https://maria-antoniak.github.io/), Cornell  
 
 #### 10/5 - Turning Words into Numbers
 * Before class:
-	* Read: Daniel Jurafsky & James H. Martin, ["Vector Semantics & Embeddings": SECTIONS 6-6.3](https://web.stanford.edu/~jurafsky/slp3/6.pdf)
+	* Optional: Daniel Jurafsky & James H. Martin, ["Vector Semantics & Embeddings": SECTIONS 6-6.3](https://web.stanford.edu/~jurafsky/slp3/6.pdf)
 	* **Quiz 4 due**: Counting and collocating with emoji 
 * In class: intro to scikit-learn
 
