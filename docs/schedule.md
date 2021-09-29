@@ -74,26 +74,24 @@
 	* Read: Patrick Juola, “[How a Computer Program Helped Show J.K. Rowling Wrote A Cuckoo’s Calling](https://www.scientificamerican.com/article/how-a-computer-program-helped-show-jk-rowling-write-a-cuckoos-calling/)”
 	* Read: Milo Beckman, “[These are the Phrases Each GOP Candidate Uses Most](https://fivethirtyeight.com/features/these-are-the-phrases-each-gop-candidate-repeats-most/)”
 	* **Quiz 3 due**: Sentiment analysis of your song lyrics
-* In class: NLP with spaCy, part 1 ([notebook](../notebooks/class10-spacy-part1.ipynb))
+* In class: NLP with spaCy ([notebook](../notebooks/class10-spacy-part1.ipynb) and [complete notebook](../notebooks/class10-spacy-complete.ipynb))
 
 #### 9/30 - Natural Language Processing 101, day 2
 * Before class:
 	* Read: Maarten Sap et al., “[Connotation Frames of Power and Agency in Modern Films](https://aclanthology.org/D17-1247.pdf)”
 	* Maria Antoniak et al, “[Narrative Paths and Negotiation of Power in Birth Stories](https://maria-antoniak.github.io/resources/2019_cscw_birth_stories.pdf)”
-	* **HW3 due**: NLP with spaCy, part 2 ([notebook](../notebooks/hw3-spacy-part2.ipynb))
 * In class: Guest lecture, [Maria Antoniak](https://maria-antoniak.github.io/), Cornell  
 
 #### 10/5 - Turning Words into Numbers
 * Before class:
 	* Optional: Daniel Jurafsky & James H. Martin, ["Vector Semantics & Embeddings": SECTIONS 6-6.3](https://web.stanford.edu/~jurafsky/slp3/6.pdf)
-	* **Quiz 4 due**: Counting and collocating with emoji
 * In class: intro to scikit-learn
 
 #### 10/7 - (Textual) Information Retrieval
 
 * Before class:
 	* Read: Matt Daniels, “[The Language of Hip Hop](https://pudding.cool/2017/09/hip-hop-words/)”
-	* Read: Daniel Jurafsky & James H. Martin, ["Vector Semantics & Embeddings": SECTIONS 6.5-6.6](https://web.stanford.edu/~jurafsky/slp3/6.pdf)
+	* Optional: Daniel Jurafsky & James H. Martin, ["Vector Semantics & Embeddings": SECTIONS 6.5-6.6](https://web.stanford.edu/~jurafsky/slp3/6.pdf)
 	* Optional: Lauren Klein, "[Dimensions of Scale](https://drive.google.com/file/d/1RvcTMegIw0sd9qV4XAIrU83Ud5558CSR/view)"
 * In class: TF-IDF and PMI/PPMI; intro of final project  
 
