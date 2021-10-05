@@ -85,7 +85,7 @@
 #### 10/5 - Turning Words into Numbers
 * Before class:
 	* Optional: Daniel Jurafsky & James H. Martin, ["Vector Semantics & Embeddings": SECTIONS 6-6.3](https://web.stanford.edu/~jurafsky/slp3/6.pdf)
-* In class: intro to scikit-learn
+* In class: intro to scikit-learn ([notebook](../notebooks/class11-sklearn.ipynb))
 
 #### 10/7 - (Textual) Information Retrieval
 
