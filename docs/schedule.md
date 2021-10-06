@@ -85,7 +85,7 @@
 #### 10/5 - Turning Words into Numbers
 * Before class:
 	* Optional: Daniel Jurafsky & James H. Martin, ["Vector Semantics & Embeddings": SECTIONS 6-6.3](https://web.stanford.edu/~jurafsky/slp3/6.pdf)
-* In class: intro to scikit-learn ([notebook](../notebooks/class11-sklearn.ipynb))
+* In class: intro to scikit-learn ([notebook](../notebooks/class11-sklearn.ipynb) and [complete notebook](../notebooks/class11-sklearn.ipynb))
 
 #### 10/7 - (Textual) Information Retrieval
 
@@ -93,7 +93,7 @@
 	* Read: Matt Daniels, “[The Language of Hip Hop](https://pudding.cool/2017/09/hip-hop-words/)”
 	* Optional: Daniel Jurafsky & James H. Martin, ["Vector Semantics & Embeddings": SECTIONS 6.5-6.6](https://web.stanford.edu/~jurafsky/slp3/6.pdf)
 	* Optional: Lauren Klein, "[Dimensions of Scale](https://drive.google.com/file/d/1RvcTMegIw0sd9qV4XAIrU83Ud5558CSR/view)"
-* In class: TF-IDF and PMI/PPMI; intro of final project  
+* In class: TF-IDF ([notebook](../notebooks/class12-tfidf.ipynb) and complete notebook)
 
 #### [ FALL BREAK ]
 
