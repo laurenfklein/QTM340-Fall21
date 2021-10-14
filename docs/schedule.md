@@ -103,15 +103,15 @@
 
 * Before class:
 	* Read: Lucy Li and David Bamman, “[Gender and Representation Bias in GPT-3 Generated Stories](https://aclanthology.org/2021.nuse-1.5.pdf)”
-	* Read: Richard Jean So, “Consecration: The Canon and Racial Inequality,” from *Redlining Culture* (Canvas)
-* In class: topic modeling
+	* Optional: Richard Jean So, “Consecration: The Canon and Racial Inequality,” from *Redlining Culture* (Canvas)
+* In class: topic modeling [notebook](../notebooks/class13-topic-modeling.ipynb)
 
 #### October 19 - Word Embedding Models
 
 * Before class:
 	* Read: Lauren Klein and Sandeep Soni, “[How Words Lead to Justice](https://www.publicbooks.org/how-words-lead-to-justice/)”
-	* Read: Laura K. Nelson, “Leveraging the Alignment Between Machine Learning and Intersectionality” (Canvas)
-	* **HW4 due**: Word embedding notebook
+	* Optional: Laura K. Nelson, “Leveraging the Alignment Between Machine Learning and Intersectionality” (Canvas)
+	* **HW4 due**: [Word embedding notebook](../notebooks/hw3-word-vectors.ipynb)
 * In class: Guest lecture, [Dr. Sandeep Soni](https://sandeepsoni.github.io/), UC Berkeley  	
 
 #### October 21 - Data, Pandas, Projects, day 1
