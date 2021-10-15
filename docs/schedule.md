@@ -93,7 +93,7 @@
 	* Read: Matt Daniels, “[The Language of Hip Hop](https://pudding.cool/2017/09/hip-hop-words/)”
 	* Optional: Daniel Jurafsky & James H. Martin, ["Vector Semantics & Embeddings": SECTIONS 6.5-6.6](https://web.stanford.edu/~jurafsky/slp3/6.pdf)
 	* Optional: Lauren Klein, "[Dimensions of Scale](https://drive.google.com/file/d/1RvcTMegIw0sd9qV4XAIrU83Ud5558CSR/view)"
-* In class: TF-IDF ([notebook](../notebooks/class12-tfidf.ipynb) and complete notebook)
+* In class: TF-IDF ([notebook](../notebooks/class12-tfidf.ipynb) and [complete notebook]((../notebooks/class12-tfidf.ipynb)))
 
 #### [ FALL BREAK ]
 
@@ -104,37 +104,33 @@
 * Before class:
 	* Read: Lucy Li and David Bamman, “[Gender and Representation Bias in GPT-3 Generated Stories](https://aclanthology.org/2021.nuse-1.5.pdf)”
 	* Optional: Richard Jean So, “Consecration: The Canon and Racial Inequality,” from *Redlining Culture* (Canvas)
-* In class: topic modeling [notebook](../notebooks/class13-topic-modeling.ipynb)
+* In class: topic modeling ([notebook](../notebooks/class13-topic-modeling.ipynb))
 
 #### October 19 - Word Embedding Models
 
 * Before class:
 	* Read: Lauren Klein and Sandeep Soni, “[How Words Lead to Justice](https://www.publicbooks.org/how-words-lead-to-justice/)”
 	* Optional: Laura K. Nelson, “Leveraging the Alignment Between Machine Learning and Intersectionality” (Canvas)
-	* **HW4 due**: [Word embedding notebook](../notebooks/hw3-word-vectors.ipynb)
-* In class: Guest lecture, [Dr. Sandeep Soni](https://sandeepsoni.github.io/), UC Berkeley  	
+	* **HW3 due**: [topic modeling notebook](../notebooks/hw3-topic-modeling.ipynb)
+* In class: word embeddings ([notebook](../notebooks/class14-word-embeddings.ipynb))
 
-#### October 21 - Data, Pandas, Projects, day 1
+#### October 21 - Word Embeddings, day 2
 * Before class:
-	* Explore: Ben Schmidt, “[Gendered Language in Teacher Reviews](http://benschmidt.org/profGender)”
+	* **Quiz 4 due**: Exploratory research exercise  
+* In class: Guest lecture, [Dr. Sandeep Soni](https://sandeepsoni.github.io/), UC Berkeley  
+	
+#### October 26 - Data, Pandas, Projects, day 1
+* Before class:
 	* Read: Anelise Hanson Shrout, ["(Re)Humanizing Data: Digitally Navigating the Bellevue Almshouse"](https://crdh.rrchnm.org/essays/v01-10-(re)-humanizing-data/)
 	* Optional: Jessica Marie Johnson, “Markup Bodies” (Canvas)
-	* **Quiz 5 due**: Exploratory research exercise  
 * In class: pandas; project brainstorming session
 
-#### October 26 - Data, Pandas, Projects, day 2
+#### October 28 - Data, Pandas, Projects, day 2
 * Before class:
 	* Read: Timnit Gebru et al., “[Datasheets for Datasets](https://arxiv.org/pdf/1803.09010.pdf)”
-	* Catherine D’Ignazio and Lauren Klein, “[The Numbers Don’t Speak for Themselves](https://data-feminism.mitpress.mit.edu/pub/czq9dfs5/release/2),” from *Data Feminism*  
+	* Optional: Catherine D’Ignazio and Lauren Klein, “[The Numbers Don’t Speak for Themselves](https://data-feminism.mitpress.mit.edu/pub/czq9dfs5/release/2),” from *Data Feminism*  
 	* **Final project prep (FPP) #1 due**: Formal project brainstorm
 * In class: pandas ii; discussion of data and its limits  
-
-#### October 28 - Data, Pandas, Projects, day 3
-* Before class:
-	* Read: Melanie Walsh, “The Challenges and Possibilities of Social Media Data” (Canvas)
-	* Read: Colored Conventions Project, “[Introduction to CCP Corpus](https://coloredconventions.org/about-records/ccp-corpus/)”
-	* Explore COVID Black, [Homegoing](https://www.covidblack.org/homegoing)
-* In class: pandas iii; more project discussion, more data discussion  
 
 ## Unit 4: Modeling Text as Data II
 
