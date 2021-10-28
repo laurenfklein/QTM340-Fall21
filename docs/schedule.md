@@ -123,29 +123,28 @@
 * Before class:
 	* Read: Anelise Hanson Shrout, ["(Re)Humanizing Data: Digitally Navigating the Bellevue Almshouse"](https://crdh.rrchnm.org/essays/v01-10-(re)-humanizing-data/)
 	* Optional: Jessica Marie Johnson, “Markup Bodies” (Canvas)
-* In class: pandas; project brainstorming session
+* In class: pandas ([notebook](../notebooks/class16-pandas-part1.ipynb)); project brainstorming session
 
 #### October 28 - Data, Pandas, Projects, day 2
 * Before class:
 	* Read: Timnit Gebru et al., “[Datasheets for Datasets](https://arxiv.org/pdf/1803.09010.pdf)”
 	* Optional: Catherine D’Ignazio and Lauren Klein, “[The Numbers Don’t Speak for Themselves](https://data-feminism.mitpress.mit.edu/pub/czq9dfs5/release/2),” from *Data Feminism*  
 	* **Final project prep (FPP) #1 due**: Formal project brainstorm
-* In class: pandas ii; discussion of data and its limits  
+* In class: pandas ii ([notebook #1](../notebooks/class17-pandas-part2.ipynb) and [notebook #2](../notebooks/class17-pandas-part3.ipynb)); discussion of data and its limits  
 
 ## Unit 4: Modeling Text as Data II
 
 #### November 2 – Classification, day 1
 * Before class:
 	* Read: Dan Sinykin and Edwin Roland, ["Against Conglomeration: Nonprofit Publishing and American Literature after 1980"](https://post45.org/2021/04/against-conglomeration-nonprofit-publishing-and-american-literature-after-1980/)
-	* **HW5 due**: Classification part 1
-* In class: classification, part 2
+* In class: classification, part 1
 
 #### November 4 – Classification, day 2
 
 * Before class:
 	* Read: Terra Blevins et al., “[Automatically Processing Tweets from Gang-Involved Youth: Towards Detecting Loss and Aggression](https://www.aclweb.org/anthology/C16-1207)”
 	* **FPP #2 due**: Datasheet OR project proposal
-* In class: Guest lecture tbd
+* In class: classification, part 2
 
 #### November 9 – Clustering (and maybe more on neural networks tbd)
 
