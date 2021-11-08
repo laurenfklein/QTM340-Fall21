@@ -137,41 +137,40 @@
 #### November 2 – Classification, day 1
 * Before class:
 	* Read: Dan Sinykin and Edwin Roland, ["Against Conglomeration: Nonprofit Publishing and American Literature after 1980"](https://post45.org/2021/04/against-conglomeration-nonprofit-publishing-and-american-literature-after-1980/)
-* In class: classification, part 1
+* In class: classification, part 1 ([notebook](../notebooks/class18-classification-pt1.ipynb))
 
 #### November 4 – Classification, day 2
 
 * Before class:
 	* Read: Terra Blevins et al., “[Automatically Processing Tweets from Gang-Involved Youth: Towards Detecting Loss and Aggression](https://www.aclweb.org/anthology/C16-1207)”
 	* **FPP #2 due**: Datasheet OR project proposal
-* In class: classification, part 2
+* In class: classification, part 2 ([notebook](../notebooks/class19-classification-pt2.ipynb))
 
-#### November 9 – Clustering (and maybe more on neural networks tbd)
+#### November 9 – Clustering 
 
 * Before class:
 	* Read: Ben Schmidt, "[Genre, Manifolds, and AI](http://benschmidt.org/post/2021-03-08-genre-and-manifolds/genres-and-manifolds/)"
 	* Read: Matthew Wilkens, "Genre, Computation, and the Varieties of 20th Century U.S. Fiction" (Canvas)
-* In class: clustering
+* In class: clustering ([notebook](../notebooks/class20-clustering.ipynb))
 
-#### November 11 - BERT (Bidirectional Encoder Representations from Transformers)
+#### November 11 - BERT (Bidirectional Encoder Representations from Transformers), day 1
 
 * Before class:
-	* Read: Ted Underwood, ["How Predictable Is Fiction?"](https://tedunderwood.com/2020/07/05/how-predictable-is-fiction/)
-	* Read: Lucy Li and David Bamman, “[Characterizing English Variation across Social Media Communities with BERT](https://arxiv.org/abs/2102.06820)”
 	* **FPP #3 due**: Datasheet OR project proposal
 * In class: sentiment analysis with BERT and next sentence prediction
 
-#### November 16 – Arguing with models
+#### November 16 – BERT, day 2
 * Before class:
-	* Read: Dong Nguyen et al., “[How we do things with words: Analyzing text as social and cultural data](https://arxiv.org/pdf/1907.01468.pdf)”
+	* Read: Lucy Li and David Bamman, “[Characterizing English Variation across Social Media Communities with BERT](https://arxiv.org/abs/2102.06820)”
+	* Read: Ted Underwood, ["How Predictable Is Fiction?"](https://tedunderwood.com/2020/07/05/how-predictable-is-fiction/)
 * In class: Guest lecture, [Lucy Li](https://lucy3.github.io/), UC Berkeley
 
-#### November 18 – Arguing with models
+#### November 18 – BERT, day 3
 * Before class:
+	* Read: Dong Nguyen et al., “[How we do things with words: Analyzing text as social and cultural data](https://arxiv.org/pdf/1907.01468.pdf)”
 	* Read: Richard Jean So, ["All Models are Wrong"](https://www-mlajournals-org.proxy.library.emory.edu/doi/pdf/10.1632/pmla.2017.132.3.668)”
-	* Read: Safiya Noble, “Introduction” and “Searching for Black Girls” from *Algorithms of Oppression: How Search Engines Reinforce Racism* (Canvas)
 	* **FPP #4 due**: Final project first pass
-* In class: discussion of models and their limits
+* In class: more BERT; discussion of models and their limits
 
 #### [ THANKSGIVING BREAK ]
 
