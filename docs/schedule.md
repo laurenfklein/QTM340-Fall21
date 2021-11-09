@@ -151,7 +151,7 @@
 * Before class:
 	* Read: Ben Schmidt, "[Genre, Manifolds, and AI](http://benschmidt.org/post/2021-03-08-genre-and-manifolds/genres-and-manifolds/)"
 	* Read: Matthew Wilkens, "Genre, Computation, and the Varieties of 20th Century U.S. Fiction" (Canvas)
-* In class: clustering ([notebook](../notebooks/class20-clustering.ipynb))
+* In class: clustering ([notebook](../notebooks/class20-clustering.ipynb) and [complete notebook](../notebooks/class20-clustering-complete.ipynb))
 
 #### November 11 - BERT (Bidirectional Encoder Representations from Transformers), day 1
 
