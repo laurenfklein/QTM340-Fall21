@@ -157,7 +157,7 @@
 
 * Before class:
 	* **FPP #3 due**: Datasheet OR project proposal
-* In class: sentiment analysis with BERT and next sentence prediction
+* In class: classification with BERT [colab notebook](https://colab.research.google.com/drive/14bOWoqE1-GvFeh8xchb0f1fTYwd_5v85?usp=sharing)
 
 #### November 16 – BERT, day 2
 * Before class:
