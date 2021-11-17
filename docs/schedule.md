@@ -168,16 +168,16 @@
 #### November 18 – BERT, day 3
 * Before class:
 	* Read: Dong Nguyen et al., “[How we do things with words: Analyzing text as social and cultural data](https://arxiv.org/pdf/1907.01468.pdf)”
-	* Read: Richard Jean So, ["All Models are Wrong"](https://www-mlajournals-org.proxy.library.emory.edu/doi/pdf/10.1632/pmla.2017.132.3.668)”
+	* Optional: Richard Jean So, ["All Models are Wrong"](https://www-mlajournals-org.proxy.library.emory.edu/doi/pdf/10.1632/pmla.2017.132.3.668)”
 	* **FPP #4 due**: Final project first pass
-* In class: more BERT; discussion of models and their limits
+* In class: more BERT ([word similarity notebook](https://colab.research.google.com/drive/1_EUn62cnJCq-buz-Qeuc8tkcWQKmaX-U?usp=sharing) and [HuggingFace pipeline functions notebook](https://colab.research.google.com/drive/13dOKKODHl0epnUjipl2CQzrIcTj3Bak6?usp=sharing)); discussion of models and their limits
 
 #### [ THANKSGIVING BREAK ]
 
 ## Unit 5: Final Projects and Course Wrap-Up
-#### November 30 – Project Presentations
+#### November 30 – Project Presentations ([sign-up sheet](https://docs.google.com/document/d/15KUVc3rmbQurgzH613s-WLV1InCt1nvyQhPPBloifAc/edit))
 
-#### December 2 – Project Presentations
+#### December 2 – Project Presentations ([sign-up sheet](https://docs.google.com/document/d/15KUVc3rmbQurgzH613s-WLV1InCt1nvyQhPPBloifAc/edit))
 
 #### December 7 – Course wrap-up and assessment
 
